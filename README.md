@@ -14,6 +14,8 @@ We use the IMDb reviews dataset from TensorFlow Datasets (TFDS), containing:
 Binary sentiment labels (0 for negative, 1 for positive)
 Movie reviews of varying lengths and complexity
 
+Dataset Link: https://www.tensorflow.org/datasets/catalog/imdb_reviews
+
 Methods
 TF-IDF Approach (Baseline)
 
